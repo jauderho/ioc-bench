@@ -11,7 +11,7 @@ require (
 	github.com/erikdubbelboer/gspt v0.0.0-20210805194459-ce36a5128377
 	github.com/google/gopacket v1.1.19
 	github.com/likexian/doh-go v0.6.4
-	github.com/otiai10/copy v1.7.0
+	github.com/otiai10/copy v1.9.0
 	github.com/zellyn/kooky v0.0.0-20210408152652-87b89e95f98f
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 )
@@ -36,7 +36,7 @@ require (
 	github.com/sahilm/fuzzy v0.1.0 // indirect
 	github.com/zalando/go-keyring v0.2.1 // indirect
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
