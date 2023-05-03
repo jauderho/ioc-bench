@@ -11,7 +11,7 @@ require (
 	github.com/erikdubbelboer/gspt v0.0.0-20210805194459-ce36a5128377
 	github.com/google/gopacket v1.1.19
 	github.com/likexian/doh-go v0.6.4
-	github.com/otiai10/copy v1.9.0
+	github.com/otiai10/copy v1.11.0
 	github.com/zellyn/kooky v0.0.0-20210408152652-87b89e95f98f
 	golang.org/x/crypto v0.8.0
 )
