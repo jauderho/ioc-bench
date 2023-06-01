@@ -13,7 +13,7 @@ require (
 	github.com/likexian/doh-go v0.6.4
 	github.com/otiai10/copy v1.11.0
 	github.com/zellyn/kooky v0.0.0-20221025221128-3e66d684c4db
-	golang.org/x/crypto v0.8.0
+	golang.org/x/crypto v0.9.0
 )
 
 require (
