@@ -10,10 +10,10 @@ require (
 	github.com/charmbracelet/lipgloss v0.7.1
 	github.com/erikdubbelboer/gspt v0.0.0-20210805194459-ce36a5128377
 	github.com/google/gopacket v1.1.19
-	github.com/likexian/doh-go v0.6.4
+	github.com/likexian/doh-go v0.6.5
 	github.com/otiai10/copy v1.12.0
 	github.com/zellyn/kooky v0.0.0-20221025221128-3e66d684c4db
-	golang.org/x/crypto v0.11.0
+	golang.org/x/crypto v0.22.0
 )
 
 require (
@@ -30,7 +30,7 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gonuts/binary v0.2.0 // indirect
 	github.com/keybase/go-keychain v0.0.0-20230523030712-b5615109f100 // indirect
-	github.com/likexian/gokit v0.25.13 // indirect
+	github.com/likexian/gokit v0.25.15 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
@@ -42,10 +42,10 @@ require (
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/sahilm/fuzzy v0.1.0 // indirect
 	github.com/zalando/go-keyring v0.2.3 // indirect
-	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/net v0.24.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/term v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/term v0.19.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	www.velocidex.com/golang/go-ese v0.1.0 // indirect
 )
