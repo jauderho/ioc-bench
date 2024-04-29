@@ -12,23 +12,15 @@ require (
 	github.com/google/gopacket v1.1.19
 	github.com/likexian/doh-go v0.6.4
 	github.com/otiai10/copy v1.12.0
-	github.com/zellyn/kooky v0.0.0-20221025221128-3e66d684c4db
+	github.com/zellyn/kooky v0.2.0
 	golang.org/x/crypto v0.11.0
 )
 
 require (
-	github.com/Velocidex/json v0.0.0-20220224052537-92f3c0326e5a // indirect
-	github.com/Velocidex/ordereddict v0.0.0-20221110130714-6a7cb85851cd // indirect
-	github.com/Velocidex/yaml/v2 v2.2.8 // indirect
 	github.com/atotto/clipboard v0.1.4 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/bobesa/go-domain-util v0.0.0-20190911083921-4033b5f7dd89 // indirect
 	github.com/containerd/console v1.0.4-0.20230313162750-1ae8d489ac81 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
-	github.com/go-sqlite/sqlite3 v0.0.0-20180313105335-53dd8e640ee7 // indirect
-	github.com/godbus/dbus/v5 v5.1.0 // indirect
-	github.com/gonuts/binary v0.2.0 // indirect
 	github.com/keybase/go-keychain v0.0.0-20230523030712-b5615109f100 // indirect
 	github.com/likexian/gokit v0.25.13 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
@@ -47,5 +39,4 @@ require (
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/term v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
-	www.velocidex.com/golang/go-ese v0.1.0 // indirect
 )
