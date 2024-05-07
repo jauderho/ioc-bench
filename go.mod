@@ -13,7 +13,7 @@ require (
 	github.com/likexian/doh-go v0.6.4
 	github.com/otiai10/copy v1.12.0
 	github.com/zellyn/kooky v0.0.0-20221025221128-3e66d684c4db
-	golang.org/x/crypto v0.11.0
+	golang.org/x/crypto v0.23.0
 )
 
 require (
@@ -42,10 +42,10 @@ require (
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/sahilm/fuzzy v0.1.0 // indirect
 	github.com/zalando/go-keyring v0.2.3 // indirect
-	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/term v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/term v0.20.0 // indirect
+	golang.org/x/text v0.15.0 // indirect
 	www.velocidex.com/golang/go-ese v0.1.0 // indirect
 )
